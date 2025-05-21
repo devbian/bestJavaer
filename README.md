@@ -54,7 +54,7 @@
   * JPA
   * Hibernate
 * [ZooKeeper](https://github.com/crisxuan/bestJavaer#zookeeper-%E7%B3%BB%E5%88%97%E6%95%99%E7%A8%8B)
-* [Kafka](https://github.com/crisxuan/bestJavaer#kafka-%E7%B3%BB%E5%88%97%E6%95%99%E7%A8%8B)
+* [Kafka MQ](https://github.com/crisxuan/bestJavaer#kafka-%E7%B3%BB%E5%88%97%E6%95%99%E7%A8%8B)
 * [Redis](https://github.com/crisxuan/bestJavaer#redis-%E7%B3%BB%E5%88%97%E6%95%99%E7%A8%8B)
 * [数据库](https://github.com/crisxuan/bestJavaer#mysql)
   * [MySQL](https://github.com/crisxuan/bestJavaer#mysql)
